@@ -4,7 +4,7 @@ This repository stores the data for some of the example models of fuzzy dark mat
 
 ## Summary of results
 
-In [ArXiv:???](LINK), we study fuzzy axion dark matter in type IIB string theory, for axions descending from the Ramond-Ramond four-form in compactifications on orientifolds of Calabi-Yau hypersurfaces. Such models can be tested by cosmological measurements if a significant relic abundance of fuzzy dark matter arises, which we argue is most common in models with small numbers of axions. We construct a topologically exhaustive ensemble of more than 350,000 Calabi-Yau compactifications yielding up to seven axions, and in this setting we perform a systematic analysis of misalignment production of fuzzy dark matter. This repository stores the ensemble of models constructed in our search.
+In [ArXiv:2412.12012](https://arxiv.org/abs/2412.12012), we study fuzzy axion dark matter in type IIB string theory, for axions descending from the Ramond-Ramond four-form in compactifications on orientifolds of Calabi-Yau hypersurfaces. Such models can be tested by cosmological measurements if a significant relic abundance of fuzzy dark matter arises, which we argue is most common in models with small numbers of axions. We construct a topologically exhaustive ensemble of more than 350,000 Calabi-Yau compactifications yielding up to seven axions, and in this setting we perform a systematic analysis of misalignment production of fuzzy dark matter. This repository stores the ensemble of models constructed in our search.
 
 <br>
 
