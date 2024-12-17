@@ -1,7 +1,6 @@
 # Fuzzy Axions and Associated Relics
 
-This repository stores the data for some of the example models of fuzzy dark matter in type IIB string theory obtained in [ArXiv:???](LINK). It also contains a Python notebook to illustrate the manipulation of these models in `CYTools`.
-
+This repository stores the data for some of the example models of fuzzy dark matter in type IIB string theory obtained in [ArXiv:2412.12012](https://arxiv.org/abs/2412.12012). It also contains a Python notebook to illustrate the manipulation of these models in `CYTools`.
 
 ## Summary of results
 
@@ -41,6 +40,14 @@ For questions or feedback, please get in touch: <es888@cornell.edu> or <as3475@c
 If you use this database for future publications, please cite
 
 ```
-@article{???
+@article{Sheridan:2024vtt,
+    author = "Sheridan, Elijah and Carta, Federico and Gendler, Naomi and Jain, Mudit and Marsh, David J. E. and McAllister, Liam and Righi, Nicole and Rogers, Keir K. and Schachner, Andreas",
+    title = "{Fuzzy Axions and Associated Relics}",
+    eprint = "2412.12012",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-th",
+    reportNumber = "KCL-PH-TH/2024-75",
+    month = "12",
+    year = "2024"
 }
 ```
